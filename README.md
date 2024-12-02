@@ -1,8 +1,8 @@
 Report je rozdělen na dvě části - VÝNOSY Z POPLATKŮ a VÝNOSY NA KARTÁCH.
 První část uvádí informace o celkovém počtu klientů, identifikaci klienta s nejvyšším celkovým výnosem, identifikaci segmentu, který generuje nejvyšší výnosy, měsíční přehled výnosů, kumulované výnosy za rok 2023.
-Druhá část uvádí informace o výnosech na kartách, rozdělení výnosů dle stavu karty, celkový obrat klientů na kartách a rozdělení kared dle stavu.
+Druhá část uvádí informace o výnosech na kartách, rozdělení výnosů dle stavu karty, celkový obrat klientů na kartách a rozdělení karet dle stavu.
 
-V případě dodatečné konzultace s užvatelem reportu, pro kterého je určen, by se dále mohlo přiblížit, zda je uvedená sleva počítána z ceny za uživatele nebo z celkové vypočítané ceny za všechny uživatele.
+V případě dodatečné konzultace s uživatelem reportu, pro kterého je určen, by se dále mohlo přiblížit, zda je uvedená sleva počítána z ceny za uživatele nebo z celkové vypočítané ceny za všechny uživatele.
 (report počítá s druhou variantou)
 Dále by bylo možné si vyjasnit, zda se mají pro výpočet výnosů počítat uvedené transakční příjmy nebo se počítají dle uvedeného procentního podílu.
 (report počítá s první variantou)
